@@ -22,6 +22,8 @@
       ```
       The first graph is good, but it could be improved with a dynamic representation, where an additional dotted line would move up, paralell to the bottom line, until it touched the Y axix on the same spot as the top line; Then, it would be possible to visualize the wage gap that would be uniquely explained by improvement in "productive characteristics". In addition, it would be nicer to see a representation with real data.  
 
+      The " bad" graph could be improved by using some of the elements of the good graph, such as adding labels to the regression line or the axes, as well as giving any indication about what the concentration of dots over each line mean. Considering the Y axis typically represents income/wages on this graph, it should not start from (0,0).
+
 
 
 
