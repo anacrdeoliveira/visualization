@@ -10,18 +10,17 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good: The picture saved on the assignment folder (Benjamin-Gunderson-Lemieu-Riddell-oaxaca-dec.jpeg) is on a Labour Market Economics textbook very imporant in my field. The graph is good because it is pleasant to look at (in my opinion), and the message is easy to understand given the context: part of a texbook, on a chapter talking about discrimination and male-female earnings differentials. Although it is not showing real data, it is a representation that explains theory. The labels on the axis are straightforward to understand (X = productive characteristics, Y = earnings (log scale)). The four points market by letters that are important for the sequencial explanation contained in the book, but the little indexes associated to the points are helpful (e.g., Point A = log or earnings lnYf of a Female with productice characterisitcs Xf). The goal of the graph is to ilustrate and facilitate the understanding of a well known model, and does it job well. 
 
-
-
-
+      Bad: https://en.wikipedia.org/wiki/Kitagawa%E2%80%93Oaxaca%E2%80%93Blinder_decomposition#/media/File:Blinder-oaxaca-decomposition-diagram.svg 
+      This version of the Oaxaca decomposition, found on wikipedia, is much less clear. Although it does have colors, which usually helps visualization (more aesthetically appealing), the understanding the graph without reading the page for details or knowin the meaning of the decomposition is not simple, and the purple and green lines, showing delta mean and delta effect do not help conveying the idea of two groups and two different levels of the characteristic on the X-axis happening simultaneously. The message it is trying to convey (an illustration or explanation of the model) is not accomplished. 
 
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      The first graph is good, but it could be improved with a dynamic representation, where an additional dotted line would move up, paralell to the bottom line, until it touched the Y axix on the same spot as the top line; Then, it would be possible to visualize the wage gap that would be uniquely explained by improvement in "productive characteristics". In addition, it would be nicer to see a representation with real data.  
 
 
 
